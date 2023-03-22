@@ -1,0 +1,2 @@
+# labCompu
+Ejemplo de readme
